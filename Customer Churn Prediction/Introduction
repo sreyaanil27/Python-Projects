@@ -1,0 +1,31 @@
+                                                        Customer Churn Analysis and Prediction
+
+
+        Customer churn, also known as customer attrition is the loss of clients or customers. Companies often use customer attrition analysis as one of their key business metrics, because the cost of retaining an existing customer is far less than the cost of acquiring a new one. 
+
+        The objective of this project is to analyze the customer churn in a telecom company, to develop models to predict and customer churn and then provide actionable insights to improve customer retention. The dataset used is Telco Customer Churn dataset from Kaggle which provides demographic information of the customer and the services they have signed up for. The project was implemented in Python using several libraries such as, Pandas, Numpy, Scikit-learn, Matplotlib and Seaborn.
+
+
+The dataset provides the following information:
+
+customerID - ID number of the customer
+Churn - Churn status, whether the customer has churned or not
+gender - Whether the customer is a male or a female
+SeniorCitizen - Whether the customer is a senior citizen or not
+Partner - Whether the customer has a partner or not
+Dependents - Whether the customer has dependents or not
+tenure - Number of months the customer has used the service
+Contract - The contract term of the customer
+PaperlessBilling - Whether the customer has paperless billing or not
+PaymentMethod - The customer’s payment method
+MonthlyCharges - The amount charged to the customer monthly
+TotalCharges - The total amount charged to the customer
+PhoneService - Whether the customer has a phone service or not
+MultipleLines - Whether the customer has multiple lines or not
+InternetService - Customer’s internet service provider
+OnlineSecurity - Whether the customer has online security or not
+OnlineBackup - Whether the customer has online backup or not
+DeviceProtection - Whether the customer has device protection or not
+TechSupport - Whether the customer has tech support or not
+StreamingTV - Whether the customer has streaming TV or not
+StreamingMovies - Whether the customer has streaming movies or not
