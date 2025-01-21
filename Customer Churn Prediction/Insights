@@ -1,0 +1,58 @@
+                                                                        Insights obtained from the analysis
+
+
+Based on the analysis of the customer churn datset, the following insights were derived regarding the attributes that have the highest and lowest probability of customer churn.
+
+Top 5 Attributes with the Highest Probability of Churn
+
+1. Payment Method: Electronic Check - Customers using electronic check as a payment method show the highest likelihood of churn.
+
+2. Contract Type: Month-to-Month - Customers with month-to-month contracts are more likely to churn compared to those on longer-term contracts.
+
+3. Internet Service: Fiber Optic - Customers who have fiber optic internet service exhibit higher churn rates.
+
+4. Senior Citizen - Senior citizens are more likely to churn compared to non-senior citizens.
+
+5. Billing Method: Paper Billing - Customers who opt for paper billing are at a higher risk of churn.
+
+
+
+Top 5 Attributes with the Lowest Probability of Churn
+
+1. Contract Type: Two-Year Contract - Customers on two-year contracts have the lowest probability of churning.
+
+2. Internet Service: No Internet Service - Interestingly, customers without any internet service tend to exhibit the lowest churn rate.
+
+3. Contract Type: One-Year Contract - One-year contract customers are less likely to churn compared to month-to-month customers.
+
+4. Online Security - Customers who have subscribed to online security services show a lower likelihood of churn.
+
+5. Tech Support - Customers who have access to tech support are less likely to churn.
+
+
+									Conclusion and Recommendations
+
+Based on the insights derived from the customer churn analysis, the following strategies can be implemented to reduce churn and improve customer retention:
+
+1. Encourage Longer Contracts:
+	The analysis indicates that month-to-month contracts have the highest churn probability. To mitigate this, the company should encourage customers to opt for longer-term contracts, such as one-year or two-year plans, which show a significantly lower churn rate. Offering discounts or additional perks (such as exclusive offers, free services, or loyalty programs) can make these longer contracts more appealing to customers.
+
+
+2. Offer Benefits to Senior Citizens:
+	Senior citizens have a higher probability of churn. To address this, the company could introduce special discounts or customized services aimed at senior citizens, such as senior-friendly support, easy-to-use interfaces, and dedicated customer service channels. Additionally, tailored retention programs can be offered to increase engagement and satisfaction among this demographic.
+
+
+3. Incentivize Customers Paying via Electronic Checks:
+	Customers who use electronic checks as a payment method are more likely to churn. The company can offer payment incentives (like discounts or cashback) to encourage customers to opt for other payment methods, such as credit/debit cards or automatic bank transfers, which may offer better retention results.
+
+
+4. Provide Benefits to High-Paying Customers:
+	Customers paying higher charges might be at a higher risk of churn. To retain these valuable customers, the company can offer premium benefits such as exclusive access to new services, priority customer support, or free upgrades to enhance their overall experience. Rewarding high-paying customers with loyalty programs can help reduce their churn probability.
+
+
+5. Focus on Online Security and Tech Support:
+	Customers who have access to online security and tech support show a significantly lower churn rate. To capitalize on this, the company should ensure that these services are promoted effectively and made available to more customers. Offering free trials, bundle packages, or easy onboarding for online security and tech support services can help increase customer satisfaction and reduce churn.
+
+
+6. Improve Customer Education and Engagement:
+	Educating customers about the benefits of long-term contracts, online security, and tech support can increase their perceived value and reduce churn. Additionally, fostering a strong customer relationship through personalized communication and regular engagement via loyalty programs or exclusive deals can help the company retain customers in the long run.
